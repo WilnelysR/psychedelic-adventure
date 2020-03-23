@@ -1,1 +1,1 @@
-web: gunicorn "psychedelic:create_app()"
+web: gunicorn "psychedelic-adventure:create_app()"
