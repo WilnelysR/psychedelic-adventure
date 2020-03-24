@@ -1,5 +1,5 @@
 import pytest
-from psychedelic import create_app
+from psychedelicadventure import create_app
 
 
 @pytest.fixture

@@ -1,4 +1,4 @@
-from psychedelic import create_app
+from psychedelicadventure import create_app
 
 def test_config():
     assert not create_app().testing

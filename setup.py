@@ -5,11 +5,11 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="psychedelic"
+    name="psychedelic-adventure"
     version="0.0.1",
     author="wilnelys roman",
     author_email="wilnelys11@hotmail.com",
-    url="https://github.com/wroman191/psychedelic",
+    url="https://github.com/wroman191/psychedelic-adventure",
     description="what does yourproject do?",
     long_description=long_description,
     long_description_content_type="text/markdown",
